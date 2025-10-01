@@ -35,13 +35,3 @@ else:
 print(f"Nombre: {nombre}")
 print(f"Edad: {edad}")
 print(f"Clasificación: {clasificacion}")
-
-
-
-
-
-#Prompts usados para este ejercicio:
-#Primer propt
-#Pide el nombre y la edad al usuario, clasificarlo por edades (<18, 18-65, >65) y mostrarlo por pantalla
-#Segundo prompt (El primero no calculaba la edad, fallo mio por no concretarlo)
-#Pide el año de nacimiento y calcula la edad
