@@ -17,7 +17,7 @@ while True:
         print("Por favor, introduce un año válido.")
 
 # Calcular edad
-#Creo que esto es una librería de python para manejar fechas
+#Esto es una librería de python para manejar fechas
 from datetime import datetime
 #Aqui se obtiene el año actual y se calcula la edad restando el año de nacimiento
 ano_actual = datetime.now().year

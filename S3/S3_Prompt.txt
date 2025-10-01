@@ -13,5 +13,8 @@ Prompt usado para el ejercicio eco_io.py:
 
 Pedir al usuario 3 numeros, calcular la suma, media y mayor
 
-La propia IA se encarga de añadir el manejo de errores en caso de que no añadamos un numero (Era mi idea en caso de que no se añadiese)
-asi que, he añadido una opción extra que es ordenar de menor a mayor los numeros introducidos
+La propia IA se encarga de añadir el manejo de errores en caso de que no añadamos un numero.
+
+Adaptación libre (eco_io_ampliacion.py):
+
+En la adaptación libre, he decidido añadir la funcionalidad de bucle "infinito", es decir, hasta que el usuario no decida salir, el programa seguira funcionando

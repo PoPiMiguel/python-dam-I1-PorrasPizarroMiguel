@@ -20,5 +20,3 @@ print(f"Suma: {suma}")
 print(f"Media: {media}")
 print(f"Mayor: {mayor}")
 
-#Aquí añadire la adaptacion libre. En este caso ordenare los numeros de menor a mayor y los mostrare
-numeros_ordenados = sorted(numeros)
