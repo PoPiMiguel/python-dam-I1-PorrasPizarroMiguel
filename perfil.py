@@ -8,6 +8,7 @@
 # Pedir nombre y año de nacimiento al usuario
 nombre = input("Introduce tu nombre: ")
 
+#Mientras que no se introduzca un año válido, el programa seguirá pidiendo el año
 while True:
     try:
         ano_nacimiento = int(input("Introduce tu año de nacimiento: "))
@@ -16,7 +17,9 @@ while True:
         print("Por favor, introduce un año válido.")
 
 # Calcular edad
+#Creo que esto es una librería de python para manejar fechas
 from datetime import datetime
+#Aqui se obtiene el año actual y se calcula la edad restando el año de nacimiento
 ano_actual = datetime.now().year
 edad = ano_actual - ano_nacimiento
 
