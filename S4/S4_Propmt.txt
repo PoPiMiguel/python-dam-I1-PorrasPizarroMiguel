@@ -1,0 +1,21 @@
+Promt usado para lista_numeros:
+
+Escribe un programa que pida una lista de numeros separados por comas, conviertela a floats, calcule suma, media y maximo y detecte duplicados (En python)
+La ia nos devuelve un codigo sencillo y funcional, bastante facil de entender
+
+Promt usado para tempreaturas:
+
+Genera un programa en python conversor de temperaturas de grados a kelvin o a farenheit, Primero se preguntará que tipo de nomenclatura introducirá y despues a cual lo quiere convertir
+La ia nos devuelve un codigo con diferentes funciones (Calculos para conversiones) Y tal como le hemos pedido, nos da la opcion de elegir de que valor a que valor queremos convertir
+
+Version V2:
+Aqui añadimos un bucle, es decir, el programa se ejecuta hasta que el usuario decida salir
+
+Promt usado para cadenas:
+
+Escribe en python un programa que reciba una cadena y cuente las vocales que tiene, las consonantes, las mayúsculas y el número de caracteres
+
+
+Promt usado para primo:
+
+Crea en python un programa que reciba un número y nos diga si es primo o no 
