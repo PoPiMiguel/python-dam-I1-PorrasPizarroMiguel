@@ -1,0 +1,13 @@
+Prompt usado en analisis_notas:
+
+Crea un programa llamado analisis_notas.py que pida al usuario una  lista de calificaciones separadas por comas y muestre un resumen estadístico similar al de un boletín de aul
+Que la salida sea tal que así: ▪ Número total de notas. 
+▪ Media, nota mínima y máxima. 
+▪ Porcentaje de aprobados (≥5) y de sobresalientes (≥9). 
+▪ Nota más repetida (moda) — si hay empate, muestra todas. 
+▪ Mensaje final: 
+▪ “Nivel excelente” si la media ≥ 8 
+▪ “Nivel medio” si la media está entre 5 y 7.9 
+▪ “Necesita refuerzo” si la media < 5 
+
+Con el codigo generado, le pedimos a la IA que nos explique brevemente las secicones de encontrar la moda y concretar sobre la ultima linea de mostrar los resultados
